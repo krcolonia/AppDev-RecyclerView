@@ -1,0 +1,64 @@
+<resources>
+
+    <string name="app_name">AppDev RecyclerView</string>
+
+    <string name="studNameProg">3BSIT-2 | COLONIA, Kurt Robin</string>
+
+    <string name="mainTitle">vALORaNT</string>
+    <string name="subTitle">AGENTS</string>
+
+    <string name="portraitDesc">Portrait of VALORANT Agents</string>
+    <string name="namePlacehold">AGENT NAME</string>
+    <string name="rolePLacehold">Agent Role</string>
+
+    <string-array name="valoAgents">
+        <item>Brimstone</item>
+        <item>Phoenix</item>
+        <item>Sage</item>
+        <item>Sova</item>
+        <item>Viper</item>
+        <item>Cypher</item>
+        <item>Reyna</item>
+        <item>Killjoy</item>
+        <item>Breach</item>
+        <item>Omen</item>
+        <item>Jett</item>
+        <item>Raze</item>
+        <item>Skye</item>
+        <item>Yoru</item>
+        <item>Astra</item>
+        <item>KAY/O</item>
+        <item>Chamber</item>
+        <item>Neon</item>
+        <item>Fade</item>
+        <item>Harbor</item>
+        <item>Gekko</item>
+        <item>Deadlock</item>
+    </string-array>
+
+    <string-array name="valoRoles">
+        <item>Controller</item>
+        <item>Duelist</item>
+        <item>Sentinel</item>
+        <item>Initiator</item>
+        <item>Controller</item>
+        <item>Sentinel</item>
+        <item>Duelist</item>
+        <item>Sentinel</item>
+        <item>Initiator</item>
+        <item>Controller</item>
+        <item>Duelist</item>
+        <item>Duelist</item>
+        <item>Initiator</item>
+        <item>Duelist</item>
+        <item>Controller</item>
+        <item>Initiator</item>
+        <item>Sentinel</item>
+        <item>Duelist</item>
+        <item>Initiator</item>
+        <item>Controller</item>
+        <item>Initiator</item>
+        <item>Sentinel</item>
+    </string-array>
+
+</resources>
